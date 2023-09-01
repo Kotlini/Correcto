@@ -5,7 +5,7 @@ import requests
 def correcto(text):
     headers = {
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer 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',
+        'Authorization': 'Bearer KEY API OPENIA',
     }
 
     data = """
